@@ -18,7 +18,7 @@
 // It stops after "cout << "A random number between 0 and 200 has been generated";" but not cout << "You got it!";??   
 // Brakes if guess is not int   https://www.techiedelight.com/convert-string-to-int-cpp/   
 // Spases make for 2 guesses  https://stackoverflow.com/questions/5838711/stdcin-input-with-spaces and https://en.cppreference.com/w/cpp/algorithm/remove
-
+// Git hub change
 
 #include <iostream>
 #include <ctime> // Added to get "time" workling in "srand((unsigned int)time(NULL));"
